@@ -3,7 +3,7 @@ Here's Polo, which is essentially Uber, but for carpooling.
 This application was built using [Kodular](https://www.kodular.io/).
 
 ## So what is Polo?
-Polo helps a user find someone to car pool with. So it's like booking a cab, except it's free, and helps the environment due to lower CO2 emissions. In addition, users receive a certain number of points at the end of their ride, which they can trade in for vouchers and coupons available on the app. 
+Polo helps a user find someone to car pool with. So it's like booking a cab, except it's free, and helps the environment due to the lower CO2 emissions from people together. In addition, users receive a certain number of points at the end of their ride, which they can trade in for vouchers and coupons available on the app. 
 Essentially, we're encouraging our users to carpool.
 
 ## What's next for Polo?
